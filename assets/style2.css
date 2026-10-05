@@ -354,7 +354,7 @@ h1 {
 }
 
 
-/* ===== desktop (>= 1025px) ===== */
+/*  desktop  */
 @media screen and (min-width: 1025px) {
     .site-header {
         min-height: 96px;
